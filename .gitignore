@@ -1,0 +1,123 @@
+# ------------------------
+# Global
+# ------------------------
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# IDE settings (VSCode, JetBrains, etc.)
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+out/
+build/
+dist/
+*.log
+
+# ------------------------
+# Visual Studio (C#, C++)
+# ------------------------
+*.obj
+*.exe
+*.pdb
+*.idb
+*.class
+*.dll
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.lib
+*.sbr
+*.sdf
+*.tlog
+*.vs/
+[Bb]uild[Ll]og.*
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.iobj
+*.ipdb
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Rider/Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# ------------------------
+# Python (PyCharm)
+# ------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+.Python
+env/
+venv/
+ENV/
+.venv/
+venv*/
+pip-wheel-metadata/
+*.egg-info/
+.eggs/
+MANIFEST
+
+# PyCharm
+.idea/
+*.iml
+
+# ------------------------
+# Rust (Cargo, RustRover)
+# ------------------------
+target/
+**/*.rs.bk
+Cargo.lock
+# Uncomment if you want to commit Cargo.lock for apps
+# !Cargo.lock
+
+# RustRover
+.idea/
+
+# ------------------------
+# Godot
+# ------------------------
+# Godot-specific
+.import/
+export.cfg
+export_presets.cfg
+
+# Mono (if using C# in Godot)
+.mono/
+data_*/
+mono_crash.*.json
+
+# ------------------------
+# Misc
+# ------------------------
+# Backup files
+*~
+*.swp
+*.tmp
+*.bak
+*.orig
+*.rej
