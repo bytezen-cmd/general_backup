@@ -1,4 +1,4 @@
-\# Dev Playground
+# Dev Playground
 
 
 
@@ -12,37 +12,19 @@ Each subfolder is dedicated to a different technology stack.
 
 
 
-\## 📂 Folder Structure
+## 📂 Folder Structure
 
 
 
-\- \*\*godot/\*\* → Game development projects using \[Godot Engine](https://godotengine.org/)  
+- **godot/** → Game development projects using [Godot Engine](https://godotengine.org/)  
 
-\- \*\*cpp/\*\* → C++ projects (using Visual Studio 2022)  
+- **cpp/** → C++ projects (using Visual Studio 2022)  
 
-\- \*\*csharp/\*\* → C# projects (using Visual Studio 2022)  
+- **csharp/** → C# projects (using Visual Studio 2022)  
 
-\- \*\*rust/\*\* → Rust projects (using \[RustRover](https://www.jetbrains.com/rust/))  
+- **rust/** → Rust projects (using [RustRover](https://www.jetbrains.com/rust/))  
 
-\- \*\*python/\*\* → Python projects (using \[PyCharm](https://www.jetbrains.com/pycharm/))  
-
-
-
----
-
-
-
-\## 🛠 Tools \& IDEs
-
-
-
-\- \*\*Visual Studio 2022\*\* → C++ / C#  
-
-\- \*\*PyCharm\*\* → Python  
-
-\- \*\*RustRover\*\* → Rust  
-
-\- \*\*Godot Engine\*\* → Game development  
+- **python/** → Python projects (using [PyCharm](https://www.jetbrains.com/pycharm/))  
 
 
 
@@ -50,13 +32,17 @@ Each subfolder is dedicated to a different technology stack.
 
 
 
-\## 📜 License
+## 🛠 Tools & IDEs
 
 
 
-This project is licensed under the \*\*Apache License 2.0\*\* – you may use, modify, and distribute this code under the terms of the license.  
+- **Visual Studio 2022** → C++ / C#  
 
-See the \[LICENSE](LICENSE) file for full details.
+- **PyCharm** → Python  
+
+- **RustRover** → Rust  
+
+- **Godot Engine** → Game development  
 
 
 
@@ -64,15 +50,29 @@ See the \[LICENSE](LICENSE) file for full details.
 
 
 
-\## 🚀 Notes
+## 📜 License
 
 
 
-\- This repo is mainly for \*\*learning and experiments\*\*.  
+This project is licensed under the **Apache License 2.0** – you may use, modify, and distribute this code under the terms of the license.  
 
-\- Code quality may vary across projects.  
+See the [LICENSE](LICENSE) file for full details.
 
-\- Contributions are not expected, but feedback is always welcome.  
+
+
+---
+
+
+
+## 🚀 Notes
+
+
+
+- This repo is mainly for **learning and experiments**.  
+
+- Code quality may vary across projects.  
+
+- Contributions are not expected, but feedback is always welcome.  
 
 
 
