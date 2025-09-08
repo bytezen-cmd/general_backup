@@ -121,3 +121,65 @@ mono_crash.*.json
 *.bak
 *.orig
 *.rej
+
+
+# ------------------------
+UnityProjects/[Ll]ibrary/
+UnityProjects/[Tt]emp/
+UnityProjects/[Oo]bj/
+UnityProjects/[Bb]uild*/
+UnityProjects/[Ll]ogs/
+UnityProjects/[Mm]emoryCaptures/
+UnityProjects/UserSettings/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity crash reports
+sysinfo.txt
+
+# Unity cache
+*.apk
+*.aab
+*.unitypackage
+
+
+# ------------------------
+# Unity
+# ------------------------
+unity/[Ll]ibrary/
+unity/[Tt]emp/
+unity/[Oo]bj/
+unity/[Bb]uild*/
+unity/[Ll]ogs/
+unity/[Mm]emoryCaptures/
+unity/UserSettings/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity crash reports
+sysinfo.txt
+
+# Unity cache
+*.apk
+*.aab
+*.unitypackage
